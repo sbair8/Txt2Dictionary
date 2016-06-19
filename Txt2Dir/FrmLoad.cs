@@ -7,6 +7,9 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+/*
+ *      Writtern by Eran Tenenboim
+ */
 
 namespace Txt2Dir
 {
